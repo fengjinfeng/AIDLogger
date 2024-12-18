@@ -15,5 +15,8 @@ public struct Logger {
         if DEBUG {
             debugPrint("只是在测试一些东西")
         }
+        if DEBUG {
+            debugPrint("只是在测试版本更新是否正常")
+        }
     }
 }
